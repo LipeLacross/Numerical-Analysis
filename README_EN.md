@@ -13,13 +13,6 @@ Repository with **hands-on assignments** from the *Numerical Analysis* course ta
 - **Activity 06 – Numerical Integration:** integrates \(e^{-x^{2}}\) on \([0,1]\) with the Trapezoidal Rule.
 - **Activity 07 – Numerical IVP (SIR Model):** simulates an epidemic using 4th-order Runge–Kutta.
 
-### 📸 Visual Example
-	
-
-  
-  
-
-
 ## ✔️ Tools & Technologies
 - **Python 3.11**
 - **Libraries:** NumPy, Matplotlib
