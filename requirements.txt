@@ -1,0 +1,3 @@
+# Bibliotecas externas usadas nos scripts do repositório
+numpy>=1.24
+matplotlib>=3.7
